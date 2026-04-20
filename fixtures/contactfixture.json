@@ -1,0 +1,16 @@
+
+{
+    "contactEdit": {
+        "firstName": "John",
+        "lastName": "Doe ",
+        "birthdate": "1970-01-01",
+        "email": "joe@fake.com",
+        "phone": "8005555555",
+      "street1": "1 Main St.",
+         "street2": "Apartment A",
+        "city": "Anytown",
+        "stateProvince": "Kathmandu",
+        "postalCode": "12345",
+        "country": "Nepal"
+    }
+}
